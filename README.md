@@ -13,7 +13,7 @@ Download .jar file from repositiory in your system and
 save it in a folder and then run the below command to integrate 
 .jar file in your maven project .
 
-Command :- mvn install:install-file -Dfile=path-where-.jar-is-stored-{version}.jar -DgroupId=groupid -DartifactId=articraftid -Dversion={version} -Dpackaging=jar
+Command :- mvn install:install-file -Dfile=path-where-.jar-is-stored-{version}.jar -DgroupId=com.example.scripts -DartifactId=SaveAudienceData -Dversion=0.0.1-SNAPSHOT -Dpackaging=jar
 
 Support
 
